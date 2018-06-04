@@ -1,6 +1,6 @@
 {
   "name": "gladys-http",
-  "version": "0.1.6",
+  "version": "0.1.5",
   "description": "Gladys hooks for sending http request.",
   "main": "index.js",
   "scripts": {
